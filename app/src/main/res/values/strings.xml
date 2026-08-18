@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AutoTyper</string>
+    <string name="accessibility_service_description">Lets AutoTyper insert your saved text snippets into the field you currently have selected in any app.</string>
+</resources>
